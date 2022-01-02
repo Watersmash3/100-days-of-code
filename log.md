@@ -2,12 +2,12 @@
 
 ### Day 0: January 1st, 2021
 
-**Today's Progress**: 
+**Today's Progress**: I worked on the Jetbrains Academy Java course. I worked through conditional statements and some repeated topics.
 
-**Thoughts**: 
+**Thoughts**: I wasn't very happy with today's progress due to: lack of progress, and difficulties with the progress I did make.
 
 **Link(s) to work**
-1. 
+1.  N / A
 
 ### Day 1: January 2nd, 2021
 
