@@ -11,12 +11,12 @@
 
 ### Day 1: January 2nd, 2021
 
-**Today's Progress**: 
+**Today's Progress**: I continued progress on the Jetbrains Academy Java for Beginners course. I finished the first project, the chatty bot. I finished some additional topics that are a part of the next project, which will be a simple Tic-Tac-Toe game.
 
-**Thoughts**: 
+**Thoughts**: I chose another "Easy" project, because even though I thought I probably could take on an advanced project, It just doesnt feel right to me to go to a Tic-Tac-Toe Game with AI if I havent made Tic Tac Toe yet. Thats all I got though for the day.
 
 **Link(s) to work**
-1. 
+1. https://github.com/Watersmash3/Java-Chatty-Bot.git (Not Done Yet)
 
 ### Day 2: January 3rd, 2021
 
